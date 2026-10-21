@@ -4,4 +4,4 @@ Sitio web personal con mi currículum vitae, hecho en HTML y CSS a partir de una
 
 - **Autor:** Lucas Colombo
 - **Materia:** Procesamiento de Datos III
-- **Sitio publicado:** https://Eletre18/lucas_colombo.github.io
+- **Sitio publicado:** [https://Eletre18/lucas_colombo.github.io](https://eletre18.github.io/lucas_colombo.github.io/)
